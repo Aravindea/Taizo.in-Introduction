@@ -375,7 +375,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   text-align: right;
-  font-size: 20px;
+  font-size: 22px;
   color: var(--color-darkslategray);
   font-family: var(--font-poppins);
 }
