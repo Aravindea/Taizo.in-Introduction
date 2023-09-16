@@ -8,7 +8,7 @@
 .taizo-logo-icon:hover {
   cursor: pointer;
 }
-.taizoin-introduction1 {
+.introduction {
   flex: 1;
   position: relative;
 }
@@ -479,7 +479,7 @@
     max-width: 35%;
     height: auto;
   }
-  .taizoin-introduction1 {
+  .introduction {
     font-size: var(--font-size-base);
   }
   .nav-bar-links {
@@ -567,7 +567,7 @@
     max-width: 40%;
     height: auto;
   }
-  .taizoin-introduction1 {
+  .introduction {
     font-size: var(--font-size-lg);
   }
   .nav-bar {
